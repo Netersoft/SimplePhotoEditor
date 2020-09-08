@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="label_brush">Brosse</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Autocollant</string>
+    <string name="label_eraser">Gomme</string>
+    <string name="label_text">Texte</string>
+    <string name="label_filter">Filtre</string>
+    <string name="label_adjust">Régler</string>
+
+    <string name="done">Terminé</string>
+    <string name="rotation">Rotation</string>
+    <string name="opacity">Opacité</string>
+    <string name="brush">Brosse</string>
+    <string name="close">Fermer</string>
+    <string name="text">Texte</string>
+    <string name="eraser">Gomme</string>
+    <string name="sticker">Autocollant</string>
+    <string name="emoji">Emoji</string>
+    <string name="collection">Collection</string>
+    <string name="more_app">Plus d\'Apps</string>
+    <string name="camera">Caméra</string>
+    <string name="share_app">Partager</string>
+    <string name="gallery">Galerie</string>
+    <string name="rate_us">Notez l\'App</string>
+    <string name="share_application">Partager l\'application</string>
+    <string name="sharing_txt">Editez rapidement vos images et partagez-les avec vos amis et votre famille</string>
+    <string name="select_picture">Sélectionnez une image</string>
+    <string name="permission_denied">Permission refusée!</string>
+    <string name="image_saving_success">Image enregistrée avec succès</string>
+    <string name="image_saving_failure">Échec d\'enregistrement de l\'image</string>
+    <string name="save_dialog_msg">Voulez-vous quitter sans enregistrer l\'image?</string>
+    <string name="save">Sauvegarder</string>
+    <string name="cancel">Annuler</string>
+    <string name="discard">Abandonner</string>
+    <string name="about_the_image">A propos de l\'image</string>
+    <string name="copy">Copier</string>
+    <string name="share">Partager</string>
+    <string name="error_occurred">Une erreur est survenue!</string>
+    <string name="copied_to_clipboard">Copié dans le presse-papiers!</string>
+    <string name="crop_image_menu_rotate_right">Pivoter</string>
+    <string name="crop_image_menu_crop">Recadrer</string>
+    <string name="not_installed">n\'est pas installé.</string>
+    <string name="refresh">Recharger</string>
+    <string name="my_collection">Ma collection</string>
+    <string name="home">Accueil</string>
+    <string name="delete">Effacer</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="delete_image">Supprimer l\'image ?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="saving_in_progress">Enregistrement…</string>
+    <string name="resize">Redimensionner l\'image</string>
+    <string name="exif_extract_error">Impossible d\'extraire les données EXIF</string>
+
+    <string name="ucrop_menu_crop" tools:override="true">Recadrer</string>
+    <string name="ucrop_rotate" tools:override="true">Pivoter</string>
+    <string name="ucrop_scale" tools:override="true">Mise à l\'échelle</string>
+    <string name="ucrop_crop" tools:override="true">Recadrer</string>
+
+</resources>
